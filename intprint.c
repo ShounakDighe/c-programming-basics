@@ -5,5 +5,6 @@ int main(){
 	int varName;
 	printf("Enter Your Number:\n");
 	scanf("%d",&varName);
-	printf("%d",varName);
+	printf("The number you enter is %d",varName);
+	return 0;
 }
