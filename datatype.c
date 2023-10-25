@@ -7,5 +7,5 @@ int main()
 	double gpa=3.7;
 	char single_char = "A";
 	char string_of_characters[]="shounak";
-	
+	return 0;
 }
