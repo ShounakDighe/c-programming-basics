@@ -8,7 +8,7 @@ int main(){
 	printf("Enter the secound Number : ");
 	scanf("%d",&b);
 	
-	printf("%d\n",a+b);
+	printf("The ans of the addition of first and secound number is %d\n",a+b);
 	return 0;
 }
 
